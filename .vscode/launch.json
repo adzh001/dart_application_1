@@ -9,7 +9,7 @@
                         "request": "launch",
                         "type": "dart",
                         "console": "terminal",
-                        "program": "dart_application_1.dart"
+                        "program": "lesson06.dart"
                 }
         ]
 }
